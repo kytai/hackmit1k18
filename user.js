@@ -1,6 +1,5 @@
 import time
 import math
-// some comment
 
 var resource = userinput('What resource do you need?');
 var location = userinput(address)
