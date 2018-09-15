@@ -1,6 +1,8 @@
 import time
 import math
 
+//some comment2
+
 var resource = userinput('What resource do you need?');
 var location = userinput(address)
 // for Google Maps API
