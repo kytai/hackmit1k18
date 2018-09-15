@@ -1,0 +1,23 @@
+{
+  "name": "hackmit2k18",
+  "version": "1.0.0",
+  "description": "natural disaster server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kytai/hackmit2k18.git"
+  },
+  "author": "Gary, Kiera, Al",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kytai/hackmit2k18/issues"
+  },
+  "homepage": "https://github.com/kytai/hackmit2k18#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

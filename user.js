@@ -1,7 +1,8 @@
-import time
-import math
+<html>
+<body>
 
-//some comment2
+<script>
+
 
 var resource = userinput('What resource do you need?');
 var location = userinput(address)
@@ -34,6 +35,11 @@ for i in localgs[0] < i <= localgs[n] {
 
 arrival => Decision Optimization API => displayed to user
 
+
+</script>
+
+</body>
+</html>
 
 
 
